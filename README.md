@@ -19,7 +19,7 @@ Here is how this repository works:
 
 ## Let's connect!
 
-Join me and be part of this amazing journey of Data Science Internship by CodSoft! You can connect with me here on GitHub or on https://www.linkedin.com/in/moiz-ahmed-b78882283/, where I will be sharing updates about progress and insights of my professional career.
+Join me and be part of this amazing journey of Data Science Internship by CodSoft! You can connect with me here on GitHub or on https://www.linkedin.com/in/moizahmed813/, where I will be sharing updates about progress and insights of my professional career.
 
 Thank you for your time. 
 Looking forward to new oppurtunies, experiences and achievements! 💡
